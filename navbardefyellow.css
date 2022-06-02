@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+} 
+
+li {
+    display: inline;
+     float: left;
+ background-color: yellow;  /* back color*/
+   
+}
+
+li a {
+ display: block;
+ color: blue;    /* letter color*/
+    padding: 9px;
+    
+}
+
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+   
+}
+
+.navbar {
+    /* insert declaration */
+    height: 20px ;
+    /* insert declaration */
+    font-family:  times_new_roman ;
+}
+
+.navbar ul {
+    /* insert 3 declarations */
+}
+
+.navbar li {
+    float: /* insert value */;
+}
+
+.navbar a {
+    /* insert declaration*/
+    width: /*/*;
+}
+
+.navbar a:link, .navbar a:visited {
+    /* insert 7 declarations */
+}
+
+.navbar a:hover, .navbar a:active {
+    background-color: green;      
+}
+ 
